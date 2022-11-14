@@ -6,9 +6,5 @@
     }
   ],
   "messageDtoList": [
-    {
-      "errorID": 1,
-      "errorMessage": 5
-    }
   ]
 }
