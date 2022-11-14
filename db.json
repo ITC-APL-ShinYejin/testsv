@@ -2,13 +2,13 @@
   "sosikiDto": [
     {
       "soshikiName": "AA(配下組織を含む)",
-      "soshikiKbn": "6",
+      "soshikiKbn": "6"
     }
   ],
-  "msgInfo": [
+  "messageDtoList": [
     {
-      "msgId": 1,
-      "msgInfo": 5
+      "errorID": 1,
+      "errorMessage": 5
     }
   ]
 }
